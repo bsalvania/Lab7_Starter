@@ -2,4 +2,4 @@
 
 Worked alone
 
-[Link to published site](https://bsalvania.github.io/Lab6_Starter/)
+[Link to published site](https://bsalvania.github.io/Lab7_Starter/)
